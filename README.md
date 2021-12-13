@@ -1,3 +1,7 @@
+# Redux todo list challenge
+
+* React todo list with state managed by redux created as an exercise by Matt Mozer
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
